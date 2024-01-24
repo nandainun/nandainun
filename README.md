@@ -2,7 +2,7 @@
 
 I’m @nandainun
 
-I’m interested in Web Development, I’m currently learning React and Laravel.
+I’m interested in Mobile Developments
 
 You can reach me on 1nandailhami@gmail.com
 
